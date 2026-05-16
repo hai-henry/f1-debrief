@@ -1,0 +1,9 @@
+name: f1-debrief
+channels:
+    - conda-forge
+    - defaults
+dependencies:
+    - python=3.14
+    - pandas
+    - matplotlib
+    - fastf1
