@@ -14,8 +14,10 @@ Each notebook breaks down a single race, providing insights into lap times, tire
 - Australian Grand Prix 2026
 
 ## Setup
+```bash
 conda env create -f environment.yml
 conda activate f1-debrief
+```
 
 ## Note
 >FastF1 caches session data locally on first load. Expect slow initial runs.
