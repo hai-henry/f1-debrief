@@ -1,6 +1,9 @@
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
 
+# Virtual documents
+.virtual_documents/
+
 # Environment variables
 .env
 
