@@ -1,5 +1,6 @@
-# F1 Race Debrief Analyzer
+<a id="readme-top"></a>
 <div align="center">
+  <h1 align="center">F1 Race Debrief Analyzer</h1>
   <img 
     width="800" 
     alt="image" 
@@ -7,11 +8,12 @@
   />
 </div>
 
+## About the Project
 Race-by-race strategy analysis using FastF1 API data.
 Each notebook breaks down a single race, providing insights into lap times, tire strategy, and the pivotal decision that ultimately determined the race’s outcome.
 
 ## Races covered
-- Australian Grand Prix 2026
+- <a href="https://github.com/hai-henry/f1-race-debrief/blob/main/notebooks/2026/01_australia/australia_debrief.ipynb">Australian Grand Prix 2026</a>
 
 ## Setup
 ```bash
